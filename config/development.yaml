@@ -1,6 +1,6 @@
 Dydx:
   Network:
-    host: https://api.stage.dydx.exchange
+    host: https://api.dydx.exchange
     chainID: 5
   User:
     limitFee: 0.2
